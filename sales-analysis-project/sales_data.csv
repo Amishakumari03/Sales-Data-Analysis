@@ -1,0 +1,11 @@
+Order ID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
+1,Phone,1,200,2024-01-01 10:00,"Street, Bhopal"
+2,Laptop,1,800,2024-01-02 12:00,"Street, Delhi"
+3,Phone,2,200,2024-02-01 14:00,"Street, Bhopal"
+4,Headphones,1,50,2024-02-05 16:00,"Street, Mumbai"
+5,Laptop,1,800,2024-03-01 18:00,"Street, Delhi"
+6,Phone,3,200,2024-03-02 20:00,"Street, Bhopal"
+7,Headphones,2,50,2024-04-01 09:00,"Street, Mumbai"
+8,Phone,1,200,2024-04-02 11:00,"Street, Bhopal"
+9,Laptop,2,800,2024-05-01 13:00,"Street, Delhi"
+10,Phone,1,200,2024-05-02 15:00,"Street, Bhopal"
